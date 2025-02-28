@@ -1,0 +1,12 @@
+## Title: |cff1784d1ElvUI|r |cff4beb2cAngelos Skinning|r
+
+## Dependencies: ElvUI
+## DefaultState: enabled
+## Author: Angelos
+## Version: 20250226
+
+## Interface: 40402
+## X-Required-ElvUI: 13.85
+
+Skins\Core\Skins.xml
+Skins\Cata\Skins.xml
